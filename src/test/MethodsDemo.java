@@ -20,6 +20,11 @@ public class MethodsDemo {
 		return "Hello World";
 	}
 	
+	public String getdata1()
+	{
+		System.out.println("Mayank");
+		return "Hello World1";
+	}
 	public static String getdata2()
 	{
 		System.out.println("Mayank");
